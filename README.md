@@ -1,5 +1,14 @@
+![GitHub](https://img.shields.io/github/license/makhmudgaly/makhmudgaly?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/makhmudgaly/makhmudgaly.svg?cache=remove)  
 # "**Hello world!**" to you all
-## Hi, I'm Makhmud Mustafabek Galy, a Software Developer 🚀 from Kazakhstan.
+<h3 align="left">
+ <abc>
+  <br>👋 Hi, I'm Makhmud Mustafabek Galy<br>
+  <br> I'm a Software Engineer from Kazakhstan. <br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ </abc>
+</h3> 
 
 [![](https://img.shields.io/badge/-@makhmudgaly-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/makhmudgaly)
 [![](https://img.shields.io/badge/-@makhmudgaly-%23181717?style=flat-square&logo=github)](https://github.com/makhmudgaly)
@@ -10,15 +19,15 @@
 
 ## **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently employed at [Amity](https://amity.co);
+- 👨🏽‍💻 At the moment employed at [Amity](https://amity.co);
 - 🌱 I’m currently learning React, Golang, Kotlin; 
-- 👯 I’m looking forward to solve first 1000 problems in [LeetCode](https://leetcode.com) 🤝;
-- 🤔 I’m looking for help with Design Patterns 😭 and Best Practices in webdev;
+- 👯 My goal is to solve 1000 problems in [LeetCode](https://leetcode.com) by the end of 2020 🤝 (250 solved);
+- 🏆 Winner of [Open Data Hackathon](https://www.inform.kz/en/astana-innovations-challenge-2018-smart-city-to-start-operating-this-year_a3167374)​;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have probably the most unique firstname in the world;
-- 📫 How to reach me: makhmudgaly2@gmail.com;
+- ⚡️ Fun-Fact: I have the most unique firstname in the world;
+- 📫 How to reach me: just click any of badges above 🤩
 
-## **My Technical Stack Stack**
+## **Technologies**
 <table>
 <tbody>
 <tr valign="top">
@@ -82,6 +91,3 @@
 
 ![makhmudgaly's github stats](https://github-readme-stats.vercel.app/api?username=makhmudgaly&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-[![HitCount](http://hits.dwyl.com/makhmudgaly/makhmudgaly.svg)](http://hits.dwyl.com/makhmudgaly/makhmudgaly)
