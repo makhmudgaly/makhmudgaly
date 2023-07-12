@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/makhmudgaly/makhmudgaly?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/makhmudgaly/makhmudgaly.svg?cache=remove)  
 # "**Hello world!**" to you all
-<h3 align="left">
+<h3 align="center">
  <abc>
   <br>👋 Hi, I'm Makhmud Mustafabek Galy<br>
   <br> I'm a Software Engineer from Kazakhstan. <br>
