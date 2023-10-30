@@ -21,7 +21,7 @@
 
 - 👨🏽‍💻 At the moment employed at [Amity](https://amity.co);
 - 🌱 I’m currently learning React, Golang, Kotlin; 
-- 👯 My goal is to solve 1000 problems in [LeetCode](https://leetcode.com) by the end of 2020 🤝 (250 solved);
+- 👯 My goal is to solve 1000 problems in [LeetCode](https://leetcode.com) by the end of 2023 🤝 (844 solved);
 - 🏆 Winner of [Open Data Hackathon](https://www.inform.kz/en/astana-innovations-challenge-2018-smart-city-to-start-operating-this-year_a3167374)​;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have the most unique firstname in the world;
