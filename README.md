@@ -207,4 +207,11 @@
   </div>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makhmudgaly" alt="makhmudgaly" /></a> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makhmudgaly&show_icons=true&locale=en" alt="makhmudgaly" /></p>
+
+[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudgaly&layout=compact)](https://github.com/makhmudgaly/github-readme-stats)
+
 
