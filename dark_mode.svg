@@ -13,10 +13,14 @@ size-adjust: 109%;
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
+.logo {fill: #fff;}
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="570px" fill="#161b22" rx="15"/>
-<image href="Logo_MG_icon_w_1.svg" x="15" y="180" width="400" height="200" />
+<g transform="translate(51.5,180) scale(1.423)">
+<path class="logo" d="M552.21,514.71a37.45,37.45,0,0,1,13.23-12.33,43.05,43.05,0,0,1,21.43-5.31,46,46,0,0,1,20.07,4.25,43,43,0,0,1,15.46,12.75l20.65-20.66a65.34,65.34,0,0,0-23.84-17.57,77.92,77.92,0,0,0-32-6.37,78.84,78.84,0,0,0-18.68,2.17,70.33,70.33,0,0,0-9.9,3.14,71.06,71.06,0,0,0-23.27,14.86A67.29,67.29,0,0,0,526.55,500l-.14.22L524,504l-27.42,42.86-49.68-77.35H424.6V610h31.06V532l30.48,47.74h20.69Z" transform="translate(-424.6 -469.47)"/>
+<path class="logo" d="M521.87,571.75a68.67,68.67,0,0,0,13,17.92,70.26,70.26,0,0,0,22.69,15,72.35,72.35,0,0,0,27.9,5.39q20.28,0,35.83-8.49t24.33-25.21q8.77-16.68,8.79-41.22v-4.43h-49.1L579.6,556.37l42.32.62a36.82,36.82,0,0,1-2.91,7.77,31,31,0,0,1-12.93,13.14q-8.42,4.53-20.37,4.54A39.76,39.76,0,0,1,564.86,577,38.08,38.08,0,0,1,550.56,562a46.34,46.34,0,0,1-5.22-22.39c0-.5,0-1,0-1.49Z" transform="translate(-424.6 -469.47)"/>
+</g>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">makhmud@galy</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">Pop!_OS</tspan>
@@ -31,8 +35,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Django, React, Gin</tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Currently Learning</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Rust + Distributed Compute</tspan>
 <tspan x="390" y="270" class="cc">. </tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies:<tspan class="cc"> .......... </tspan><tspan class="value">Spending 8 hrs to automate 10 min task</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Fuel:<tspan class="cc"> ........ </tspan><tspan class="value">if (coffee == empty) { system.crash(); } 💻</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Spending 8 hrs to automate 10 min task</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Fuel</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">if (coffee == empty) { system.crash(); } 💻</tspan>
 <tspan x="390" y="350">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">makhmudgaly2@gmail.com</tspan>
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Website</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">makhmudgaly.com</tspan>
